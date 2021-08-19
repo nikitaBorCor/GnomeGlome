@@ -1,5 +1,4 @@
 # GnomeGlome
-Project for a math communication submission
 
 This project was made to be submitted to the math communcation compeition, SoME1. Please read the article *GnomeGlomeArticle* to learn about the math behind this submission. You can download the MatLab file *gnomFiberPlot.m* to play around with the gnomonically projected circles discussed in the article. 
 
